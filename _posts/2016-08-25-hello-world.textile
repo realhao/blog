@@ -1,0 +1,8 @@
+---
+layout: post
+title: hello world
+---
+
+h1. {{ page.title }}
+
+p(meta). hello world
